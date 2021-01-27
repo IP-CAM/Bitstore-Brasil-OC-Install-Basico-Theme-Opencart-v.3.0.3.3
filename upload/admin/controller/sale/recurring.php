@@ -294,7 +294,7 @@ class ControllerSaleRecurring extends Controller {
 		$this->load->model('sale/recurring');
 
 		if (isset($this->request->get['order_recurring_id'])) {
-			$order_recurring_id = (int)$this->request->get['order_recurring_id'];
+			$order_recurring_id = $this->request->get['order_recurring_id'];
 		} else {
 			$order_recurring_id = 0;
 		}
@@ -306,7 +306,7 @@ class ControllerSaleRecurring extends Controller {
 
 			$this->document->setTitle($this->language->get('heading_title'));
 
-			$data['user_token'] = $this->session->data['user_token'];
+			$data['user_token'] = $this->request->get['user_token'];
 
 			$url = '';
 

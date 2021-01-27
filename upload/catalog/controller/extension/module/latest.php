@@ -9,7 +9,14 @@ class ControllerExtensionModuleLatest extends Controller {
 
 		$data['products'] = array();
 
-		$results = $this->model_catalog_product->getLatestProducts($setting['limit']);
+		$filter_data = array(
+			'sort'  => 'p.date_added',
+			'order' => 'DESC',
+			'start' => 0,
+			'limit' => $setting['limit']
+		);
+
+		$results = $this->model_catalog_product->getProducts($filter_data);
 
 		if ($results) {
 			foreach ($results as $result) {

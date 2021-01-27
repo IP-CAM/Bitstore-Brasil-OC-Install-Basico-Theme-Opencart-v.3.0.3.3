@@ -17,7 +17,8 @@ Projeto Bitstore-oc3
 
 Desenvolvido com as tecnologias web: PHP 7, CSS3 e HTML5.
 
-O **Projeto Bitstore-oc3** é um fork do OpenCartBrasil, que tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura, com testes e que rode em PHP7.
+O **Projeto Bitstore-oc3** é um fork do OpenCartBrasil.
+Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura, com testes e que rode em PHP7.
 
 
 ## Roteiro

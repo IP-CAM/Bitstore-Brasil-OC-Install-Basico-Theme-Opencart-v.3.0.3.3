@@ -172,6 +172,16 @@ a:hover, a:focus {
 #column-left, #content, #footer {
 	transition: all 0.3s;
 }
+
+#content-login {
+	padding-bottom: 40px;
+        background: url('../image/bk-login.svg');
+}
+
+#footer{
+    margin-top: 2%;
+}
+
 #column-left + #content, #column-left + #content + #footer {
 	position: relative;
 	left: 0px;

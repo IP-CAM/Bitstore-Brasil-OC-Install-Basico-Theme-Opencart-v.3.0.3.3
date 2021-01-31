@@ -27,13 +27,13 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 
 - [x] Install do fork do OpenCart 3.0.3.3.
 - [x] Traduzido o install para Projeto Bitstore-oc3.
+- [x] Traduzir área de admin para pt-br.
 
 ### Tarefas em andamento:
 
-- [ ] Traduzir área de admin para pt-br.
+- [ ] Traduzir área do usuário para pt-br.
 
 ### Próximas tarefas:
 
-- [ ] Traduzir área do usuário para pt-br.
 - [ ] Documentar a estrutura para construir um Layout.
 - [ ] Criar um Template novo padrão.

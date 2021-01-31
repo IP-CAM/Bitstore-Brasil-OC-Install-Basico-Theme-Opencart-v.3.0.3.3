@@ -1,0 +1,70 @@
+home.twig
+	header.twing
+	column_left.twing
+	content_top
+	content_bottom
+	column_right
+	footer
+
+header.twig
+	head
+	  nav
+		currency
+		language
+		contact
+		telephone
+		account
+		logged
+		  account
+		  order
+		  transaction
+		  download
+		  logout
+		register
+		login
+		wishlist
+		shopping_cart
+		checkout	  		
+	  header
+		logo
+		name
+		home
+		search
+		cart
+
+menu.twig
+	container
+		menu
+			category
+				category.children
+
+content_top.twing
+	module
+	
+content_bottom.twing
+	module
+	
+column_left.twing
+	modules
+
+column_right.twing
+	modules
+	
+footer.twing
+	  informations
+	  text_service
+		contact
+		return
+		sitemap
+	  text_extra
+		manufacturer
+		voucher
+		affiliate
+		special
+	  text_account
+		account
+		order
+		wishlist
+		newsletter
+  powered	
+	

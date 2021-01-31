@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="1140"
+   height="380"
+   viewBox="0 0 1140 380"
+   sodipodi:docname="banner-man.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="C:\wamp2\www\bitstore-oc3\layout\banners\banner-man.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.6947014"
+     inkscape:cx="304.66782"
+     inkscape:cy="90.567"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="C:\wamp2\www\bitstore-oc3\layout\banners\bk-man.png"
+     xlink:href="bk-man.png"
+     y="0"
+     x="0"
+     id="image10"
+     preserveAspectRatio="none"
+     height="380"
+     width="1140" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.89587021px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.08554745"
+     x="246.49977"
+     y="203.91388"
+     id="text14"><tspan
+       sodipodi:role="line"
+       id="tspan12"
+       x="246.49977"
+       y="203.91388"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:69.47503662px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold';fill:#f9f9f9;stroke-width:1.08554745">Esteja na vanguarda</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.71957684px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#fcd67b;fill-opacity:1;stroke:none;stroke-width:0.91997355"
+     x="248.49025"
+     y="235.90735"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="248.49025"
+       y="235.90735"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.62610435px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#fcd67b;fill-opacity:1;stroke-width:0.91997355">Coleção de roupas masculinas de alta qualidade</tspan></text>
+  <rect
+     style="opacity:1;fill:#ef2853;fill-opacity:1;stroke:#da5278;stroke-width:0.04800069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect31"
+     width="122.15117"
+     height="33.92506"
+     x="424.81168"
+     y="262.64404" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.32520485px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5828253"
+     x="463.95737"
+     y="286.34479"
+     id="text840"><tspan
+       sodipodi:role="line"
+       id="tspan838"
+       x="463.95737"
+       y="286.34479"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6504097px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold';stroke-width:0.5828253">Saiba mais</tspan></text>
+  <path
+     style="fill:#ffffff;stroke:none;stroke-width:0.88834572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 436.55201,270.97503 v 17.26306 l 14.0662,-7.99216 z"
+     id="path855"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+</svg>

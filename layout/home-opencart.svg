@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1227"
+   height="1566"
+   viewBox="0 0 324.64375 414.33753"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="layout-opencart.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1146"
+       inkscape:collect="always">
+      <stop
+         id="stop1142"
+         offset="0"
+         style="stop-color:#0070d2;stop-opacity:1" />
+      <stop
+         id="stop1144"
+         offset="1"
+         style="stop-color:#00c780;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1121"
+       inkscape:collect="always">
+      <stop
+         id="stop1117"
+         offset="0"
+         style="stop-color:#3b74af;stop-opacity:1" />
+      <stop
+         id="stop1119"
+         offset="1"
+         style="stop-color:#3ea98b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="381.92604"
+       x2="684.12485"
+       y1="381.92604"
+       x1="359.48111"
+       id="linearGradient1123"
+       xlink:href="#linearGradient1121"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="318.02918"
+       x2="684.12485"
+       y1="318.02918"
+       x1="359.48111"
+       id="linearGradient1148"
+       xlink:href="#linearGradient1146"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22750567"
+     inkscape:cx="1437.3823"
+     inkscape:cy="1145.3584"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer7"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 1 - home"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\index-default-theme.png"
+       xlink:href="index-default-theme.png"
+       y="3.0517579e-06"
+       x="-355.25403"
+       width="324.64374"
+       height="414.33749"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image17" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 2 - header"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\front-header.png"
+       xlink:href="front-header.png"
+       y="0"
+       x="6.1035157e-06"
+       width="324.64374"
+       height="34.395832"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image31-8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 3 - menu"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\front-menu.png"
+       xlink:href="front-menu.png"
+       y="34.396065"
+       x="11.377081"
+       width="301.88959"
+       height="11.1125"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image45-9" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 4 - carousel"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\front-slideshow.png"
+       xlink:href="front-slideshow.png"
+       y="45.508331"
+       x="11.244787"
+       width="302.15417"
+       height="116.41666"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image59-5" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 5 - featured"
+     id="layer5"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\front-featured.png"
+       xlink:href="front-featured.png"
+       y="161.79681"
+       x="11.509375"
+       width="301.625"
+       height="124.61875"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image73-8" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 6 - slideshow"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\front-carousel.png"
+       xlink:href="front-carousel.png"
+       y="286.54376"
+       x="6.1035157e-06"
+       width="324.64374"
+       height="62.970833"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image107-2" />
+    <rect
+       y="286.54376"
+       x="359.48111"
+       height="62.970833"
+       width="324.64374"
+       id="rect1140"
+       style="fill:url(#linearGradient1148);fill-opacity:1;stroke-width:1;stroke-linecap:round" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 7 - footer"
+     id="layer7"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="C:\temp\bitstore.com.br\Layout\front-footer.png"
+       xlink:href="front-footer.png"
+       y="349.51459"
+       x="6.1035157e-06"
+       width="324.64374"
+       height="64.822914"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image89-9" />
+    <rect
+       y="349.51459"
+       x="359.48111"
+       height="64.822914"
+       width="324.64374"
+       id="rect278"
+       style="fill:url(#linearGradient1123);stroke-width:1.54834;stroke-linecap:round;fill-opacity:1" />
+  </g>
+</svg>

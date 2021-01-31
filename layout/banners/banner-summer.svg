@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="1140"
+   height="380"
+   viewBox="0 0 1140 380"
+   sodipodi:docname="banner-summer.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.98245614"
+     inkscape:cx="545.79457"
+     inkscape:cy="132.70162"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="C:\wamp2\www\bitstore-oc3\layout\banners\bk-summer.png"
+     xlink:href="bk-summer.png"
+     y="0"
+     x="0"
+     id="image10"
+     preserveAspectRatio="none"
+     height="380"
+     width="1140" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.44210815px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.33953929"
+     x="126.99647"
+     y="197.3159"
+     id="text14"><tspan
+       sodipodi:role="line"
+       id="tspan12"
+       x="126.99647"
+       y="197.3159"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.73051453px;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush Bold';fill:#f9f9f9;stroke-width:1.33953929">Coleção de Verão</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.21353149px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.88834572;"
+     x="125.21038"
+     y="237.29269"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="125.21038"
+       y="237.29269"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.95137596px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#d4aa00;fill-opacity:1;stroke-width:0.88834572;">Confira a coleção de roupas de verão de 2021 </tspan></text>
+  <rect
+     style="opacity:1;fill:#ef2853;fill-opacity:1;stroke:#da5278;stroke-width:0.04800069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect31"
+     width="122.15117"
+     height="33.92506"
+     x="301.49396"
+     y="264.22128" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.32520485px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5828253"
+     x="340.63965"
+     y="287.92203"
+     id="text840"><tspan
+       sodipodi:role="line"
+       id="tspan838"
+       x="340.63965"
+       y="287.92203"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6504097px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold';stroke-width:0.5828253">Saiba mais</tspan></text>
+  <path
+     style="fill:#ffffff;stroke:none;stroke-width:0.88834572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 313.23426,272.55228 v 17.26306 l 14.0662,-7.99216 z"
+     id="path855"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#ffffff;opacity:0.761"
+     d="m 381.20764,143.49793 c -2.07283,-0.82193 -3.56754,-2.84144 -7.02525,-9.49181 -3.48758,-6.70785 -3.78593,-10.27402 -0.98494,-11.77307 1.51975,-0.81335 2.5828,-0.67637 4.5,0.57983 1.3806,0.9046 2.51019,2.16789 2.51019,2.8073 0,0.63941 1.37301,3.80892 3.05114,7.04336 4.22901,8.15101 3.31794,12.96338 -2.05114,10.83439 z m -37.5,-17.27033 c -0.33992,-0.55 -1.28547,-1 -2.10122,-1 -0.81576,0 -2.0267,-0.45794 -2.69099,-1.01765 -0.66428,-0.5597 -3.05829,-2.31762 -5.32002,-3.90647 -2.26173,-1.58886 -5.38247,-5.06842 -6.93497,-7.73236 -5.9793,-10.25987 -2.30202,-25.560974 8.81465,-36.677644 2.0529,-2.0529 3.73255,-3.47502 3.73255,-3.16026 0,0.31476 0.98485,-0.34524 2.18856,-1.46667 1.20371,-1.12142 2.77871,-2.03895 3.5,-2.03895 0.72129,0 1.31144,-0.35718 1.31144,-0.79373 0,-0.43654 2.76045,-1.40612 6.13433,-2.15462 5.05048,-1.12044 7.03821,-1.1348 11.25,-0.0813 2.81362,0.70379 5.90317,1.96812 6.86567,2.80961 0.9625,0.84149 1.76368,1.12274 1.78041,0.625 0.0167,-0.49774 0.48908,-0.11749 1.04969,0.84501 0.5606,0.9625 1.67777,1.75 2.48259,1.75 0.80482,0 2.44713,2.025 3.64957,4.5 1.20245,2.475 2.5466,4.5 2.98701,4.5 0.4404,1e-5 0.80073,4.07906 0.80073,9.06457 0,8.68401 -0.11667,9.16273 -2.77913,11.403044 -1.52852,1.28617 -3.44102,3.61962 -4.25,5.18544 -1.76385,3.41404 -3.24628,4.74027 -8.31236,7.43648 -4.68993,2.49602 -14.98777,2.4838 -17.75323,-0.0211 -0.9524,-0.86265 -3.08826,-2.69345 -4.74637,-4.06845 -3.50668,-2.90795 -5.71354,-9.47683 -4.76954,-14.196864 1.90584,-9.52921 17.78644,-15.29879 24.2255,-8.80138 5.59479,5.6455 5.71053,7.61475 0.73173,12.4501 -3.91861,3.805714 -5.74051,4.237044 -9.89713,2.343164 -2.29834,-1.04719 -2.57289,-1.64706 -2.09674,-4.581204 0.46543,-2.86815 0.32963,-3.1951 -0.90242,-2.17258 -2.34342,1.94487 -1.79977,7.700204 0.99098,10.490954 1.97778,1.97778 3.06949,2.3207 5.75,1.80612 4.76174,-0.9141 8.86107,-4.01191 8.10421,-6.12424 -0.33779,-0.94274 -0.24636,-1.38048 0.20316,-0.97275 1.17977,1.07007 3.50134,-1.160294 3.50134,-3.363774 0,-1.03265 0.45,-1.87755 1,-1.87755 1.5976,0 1.15495,-9.38213 -0.60953,-12.91911 -1.52473,-3.05638 -5.00713,-5.36618 -6.64047,-4.40446 -0.4125,0.24288 -0.75,-0.25996 -0.75,-1.11742 0,-1.25356 -1.28509,-1.55901 -6.55902,-1.55901 -3.60746,0 -6.31057,0.40199 -6.00691,0.89332 0.30366,0.49133 -0.51232,1.16048 -1.81328,1.487 -3.32696,0.83502 -10.21238,8.20227 -13.14608,14.06602 -2.87097,5.73838 -3.21874,12.183474 -0.91891,17.030014 1.90603,4.01665 7.69069,8.79575 12.60577,10.41448 2.01387,0.66325 3.92637,1.89594 4.25,2.73932 0.79147,2.06253 0.80493,2.01049 -0.983,3.79842 -1.74897,1.74897 -6.96832,2.12514 -7.92857,0.57143 z m 50,-27.602364 c -5.60716,-2.04863 -8.23991,-4.80119 -6.54525,-6.84312 1.71338,-2.06449 6.61602,-1.9333 11.54525,0.30896 11.08576,5.0428 6.6793,10.801294 -5,6.53416 z m -84.83152,-2.49929 c -1.00734,-0.59894 -2.69546,-0.86305 -3.75138,-0.58692 -1.05592,0.27612 -1.71834,0.17599 -1.47204,-0.22254 0.2463,-0.39852 -0.38793,-1.32695 -1.40939,-2.06319 -1.50671,-1.08597 -1.63993,-1.68652 -0.70589,-3.18215 0.9415,-1.50759 2.33757,-1.82199 7.66077,-1.72524 3.5802,0.0651 7.85945,0.40699 9.50945,0.75982 2.63776,0.56405 3,1.06293 3,4.13169 v 3.49018 l -5.5,0.24366 c -3.025,0.13401 -6.32418,-0.24638 -7.33152,-0.84531 z m 69.97149,-28.07996 c -2.06285,-1.15443 -2.11399,-4.20151 -0.10426,-6.21125 0.84465,-0.84464 1.40715,-1.84639 1.25,-2.2261 -0.15714,-0.37971 0.47166,-0.80154 1.39732,-0.9374 0.92567,-0.13586 4.58282,-2.31626 8.12699,-4.84533 6.24769,-4.45826 9.73585,-5.48907 12.54699,-3.70785 2.41928,1.53292 0.26523,4.74914 -5.63471,8.41322 -3.14727,1.95457 -6.28861,4.48583 -6.98077,5.62504 -0.69216,1.1392 -1.81716,2.07405 -2.5,2.07744 -0.68284,0.003 -2.41604,0.61902 -3.85156,1.36808 -1.7155,0.89515 -3.1721,1.04737 -4.25,0.44415 z m -37.76643,-4.56839 c -4.07026,-10.39339 -4.38701,-11.89131 -2.98307,-14.10701 1.50025,-2.36772 5.05379,-0.25339 7.03254,4.1843 2.91337,6.53374 3.09848,7.53143 1.88964,10.18456 -1.51952,3.33498 -4.58341,3.1999 -5.93911,-0.26185 z"
+     id="path43"
+     inkscape:connector-curvature="0" />
+</svg>

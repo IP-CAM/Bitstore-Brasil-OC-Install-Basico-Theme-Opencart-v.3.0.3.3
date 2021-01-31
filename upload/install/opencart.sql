@@ -2099,7 +2099,7 @@ CREATE TABLE `oc_module` (
 --
 
 INSERT INTO `oc_module` (`module_id`, `name`, `code`, `setting`) VALUES
-(30, 'Departamentos', 'banner', '{"name":"Departamentos","banner_id":"1","width":"182","height":"182","status":"1"}'),
+(30, 'Departamentos', 'banner', '{"name":"Departamentos","banner_id":"1","width":"255","height":"128","status":"1"}'),
 (29, 'Página principal', 'carousel', '{"name":"Home Page","banner_id":"3","width":"130","height":"100","status":"1"}'),
 (28, 'Página principal', 'featured', '{"name":"Home Page","product":["43","40","42","30"],"limit":"4","width":"200","height":"200","status":"1"}'),
 (27, 'Página principal', 'slideshow', '{"name":"Home Page","banner_id":"2","width":"1140","height":"380","status":"1"}'),

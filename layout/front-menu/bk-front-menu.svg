@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="1729"
+   height="224"
+   viewBox="0 0 1729 224"
+   sodipodi:docname="bk-front-menu.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient960"
+       inkscape:collect="always">
+      <stop
+         id="stop956"
+         offset="0"
+         style="stop-color:#a7a7a7;stop-opacity:1" />
+      <stop
+         id="stop958"
+         offset="1"
+         style="stop-color:#d9d9d9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient954"
+       inkscape:collect="always">
+      <stop
+         id="stop950"
+         offset="0"
+         style="stop-color:#a6a6a6;stop-opacity:1" />
+      <stop
+         id="stop952"
+         offset="1"
+         style="stop-color:#d9d9d9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient948"
+       inkscape:collect="always">
+      <stop
+         id="stop944"
+         offset="0"
+         style="stop-color:#bfbfbf;stop-opacity:1" />
+      <stop
+         id="stop946"
+         offset="1"
+         style="stop-color:#e8e8e8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient902">
+      <stop
+         style="stop-color:#1b7fa6;stop-opacity:1"
+         offset="0"
+         id="stop898" />
+      <stop
+         style="stop-color:#1f8fb9;stop-opacity:1"
+         offset="1"
+         id="stop900" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient881">
+      <stop
+         style="stop-color:#1e8db7;stop-opacity:1"
+         offset="0"
+         id="stop877" />
+      <stop
+         style="stop-color:#239ece;stop-opacity:1"
+         offset="1"
+         id="stop879" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient827">
+      <stop
+         style="stop-color:#1e8db7;stop-opacity:1"
+         offset="0"
+         id="stop823" />
+      <stop
+         style="stop-color:#23a0d0;stop-opacity:1"
+         offset="1"
+         id="stop825" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient948"
+       id="linearGradient829"
+       x1="562.63715"
+       y1="-16.319941"
+       x2="561.61053"
+       y2="-72.414124"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,87.99375)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient960"
+       id="linearGradient883"
+       x1="216.40894"
+       y1="152.50047"
+       x2="216.95474"
+       y2="122.20867"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient954"
+       id="linearGradient904"
+       x1="117.31347"
+       y1="74.604683"
+       x2="116.76766"
+       y2="14.021097"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient827"
+       id="linearGradient938"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-154.34058)"
+       x1="96.424644"
+       y1="-13.618379"
+       x2="96.103699"
+       y2="-76.533653" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient902"
+       id="linearGradient940"
+       gradientUnits="userSpaceOnUse"
+       x1="117.31347"
+       y1="74.604683"
+       x2="116.76766"
+       y2="14.021097"
+       gradientTransform="translate(0,-242.33433)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient881"
+       id="linearGradient942"
+       gradientUnits="userSpaceOnUse"
+       x1="216.40894"
+       y1="152.50047"
+       x2="216.95474"
+       y2="122.20867"
+       gradientTransform="translate(0,-242.33433)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.2955466"
+     inkscape:cx="59.713786"
+     inkscape:cy="89.74343"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="false" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#acacac;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect851"
+     width="243.42593"
+     height="143.54489"
+     x="35.443764"
+     y="71.875694"
+     ry="9.0205841"
+     rx="0" />
+  <rect
+     ry="6.2766776"
+     y="10.978575"
+     x="12.042317"
+     height="67.925003"
+     width="1705.8438"
+     id="rect831"
+     style="opacity:1;fill:#a38c8f;fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient829);fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect14"
+     width="1705.8438"
+     height="67.925003"
+     x="10.54138"
+     y="9.3411694"
+     ry="6.2766776" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient904);fill-opacity:1;stroke:none;stroke-width:1.06600273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect896"
+     width="127.17094"
+     height="67.678955"
+     x="35.443764"
+     y="10.200512" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.09477723;"
+     x="57.632774"
+     y="50.644684"
+     id="text837"><tspan
+       sodipodi:role="line"
+       id="tspan835"
+       x="57.632774"
+       y="50.644684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#666666;fill-opacity:1;stroke-width:1.09477723;">Desktops</tspan></text>
+  <text
+     id="text841"
+     y="50.644684"
+     x="178.79994"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.09477723;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#666666;fill-opacity:1;stroke-width:1.09477723;"
+       y="50.644684"
+       x="178.79994"
+       id="tspan839"
+       sodipodi:role="line">Notebooks</tspan></text>
+  <text
+     id="text845"
+     y="195.49994"
+     x="57.632774"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+       y="195.49994"
+       x="57.632774"
+       id="tspan843"
+       sodipodi:role="line">Todos em Desktops</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+     x="57.632774"
+     y="107.08065"
+     id="text849"><tspan
+       sodipodi:role="line"
+       id="tspan847"
+       x="57.632774"
+       y="107.08065"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;">PC (0)</tspan></text>
+  <path
+     style="fill:none;stroke:#acacac;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 35.50625,168.81093 H 277.875"
+     id="path853"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient883);fill-opacity:1;stroke:none;stroke-width:2.06374955;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect859"
+     width="241.78854"
+     height="40.389057"
+     x="36.022671"
+     y="117.56938"
+     ry="0" />
+  <text
+     id="text857"
+     y="145.28651"
+     x="57.632774"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+       y="145.28651"
+       x="57.632774"
+       id="tspan855"
+       sodipodi:role="line">Mac (1)</tspan></text>
+  <rect
+     rx="0"
+     ry="9.0205841"
+     y="-170.45863"
+     x="35.443764"
+     height="143.54489"
+     width="243.42593"
+     id="rect906"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#acacac;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  <rect
+     style="opacity:1;fill:#104d64;fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="rect908"
+     width="1705.8438"
+     height="67.925003"
+     x="12.042317"
+     y="-231.35576"
+     ry="6.2766776" />
+  <rect
+     ry="6.2766776"
+     y="-232.99316"
+     x="10.54138"
+     height="67.925003"
+     width="1705.8438"
+     id="rect910"
+     style="opacity:1;fill:url(#linearGradient938);fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  <rect
+     y="-232.13382"
+     x="35.443764"
+     height="67.678955"
+     width="127.17094"
+     id="rect912"
+     style="opacity:1;fill:url(#linearGradient940);fill-opacity:1;stroke:none;stroke-width:1.06600273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  <text
+     id="text916"
+     y="-194.19824"
+     x="57.632774"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.09477723"
+       y="-194.19824"
+       x="57.632774"
+       id="tspan914"
+       sodipodi:role="line">Desktops</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723"
+     x="178.79994"
+     y="-194.19824"
+     id="text920"><tspan
+       sodipodi:role="line"
+       id="tspan918"
+       x="178.79994"
+       y="-194.19824"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.09477723">Notebooks</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#2ba4d2;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362"
+     x="57.632774"
+     y="-46.834393"
+     id="text924"><tspan
+       sodipodi:role="line"
+       id="tspan922"
+       x="57.632774"
+       y="-46.834393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#2ba4d2;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362">Todos em Desktops</tspan></text>
+  <text
+     id="text928"
+     y="-135.25368"
+     x="57.632774"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362"
+       y="-135.25368"
+       x="57.632774"
+       id="tspan926"
+       sodipodi:role="line">PC (0)</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path930"
+     d="M 35.50625,-73.523403 H 277.875"
+     style="fill:none;stroke:#acacac;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect
+     ry="0"
+     y="-124.76495"
+     x="36.022671"
+     height="40.389057"
+     width="241.78854"
+     id="rect932"
+     style="opacity:1;fill:url(#linearGradient942);fill-opacity:1;stroke:none;stroke-width:2.06374955;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362"
+     x="57.632774"
+     y="-97.047821"
+     id="text936"><tspan
+       sodipodi:role="line"
+       id="tspan934"
+       x="57.632774"
+       y="-97.047821"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362">Mac (1)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     x="178.02806"
+     y="49.87281"
+     id="text975"><tspan
+       sodipodi:role="line"
+       id="tspan973"
+       x="178.02806"
+       y="49.87281"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;">Notebooks</tspan></text>
+  <text
+     id="text979"
+     y="50.065781"
+     x="57.246838"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.09477723"
+       y="50.065781"
+       x="57.246838"
+       id="tspan977"
+       sodipodi:role="line">Desktops</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362"
+     x="56.689331"
+     y="144.89087"
+     id="text983"><tspan
+       sodipodi:role="line"
+       id="tspan981"
+       x="56.689331"
+       y="144.89087"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362">Mac (1)</tspan></text>
+</svg>

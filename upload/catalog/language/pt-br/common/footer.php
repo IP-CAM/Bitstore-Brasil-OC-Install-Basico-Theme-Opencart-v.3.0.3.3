@@ -14,4 +14,4 @@ $_['text_account']      = 'Minha conta';
 $_['text_order']        = 'Histórico de pedidos';
 $_['text_wishlist']     = 'Lista de desejos';
 $_['text_newsletter']   = 'Informativo';
-$_['text_powered']      = 'Desenvolvido por <a href="https://www.bitstore.com.br">Bitstore</a><br /> %s &copy; %s';
+$_['text_powered']      = ' %s &copy; %s';

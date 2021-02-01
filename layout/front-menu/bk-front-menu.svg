@@ -37,11 +37,11 @@
       <stop
          id="stop956"
          offset="0"
-         style="stop-color:#a7a7a7;stop-opacity:1" />
+         style="stop-color:#c2c2c2;stop-opacity:1" />
       <stop
          id="stop958"
          offset="1"
-         style="stop-color:#d9d9d9;stop-opacity:1" />
+         style="stop-color:#d8d8d8;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient954"
@@ -49,11 +49,11 @@
       <stop
          id="stop950"
          offset="0"
-         style="stop-color:#a6a6a6;stop-opacity:1" />
+         style="stop-color:#bdbdbd;stop-opacity:1" />
       <stop
          id="stop952"
          offset="1"
-         style="stop-color:#d9d9d9;stop-opacity:1" />
+         style="stop-color:#dbdbdb;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient948"
@@ -61,11 +61,11 @@
       <stop
          id="stop944"
          offset="0"
-         style="stop-color:#bfbfbf;stop-opacity:1" />
+         style="stop-color:#dbdbdb;stop-opacity:1" />
       <stop
          id="stop946"
          offset="1"
-         style="stop-color:#e8e8e8;stop-opacity:1" />
+         style="stop-color:#eeeeee;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -175,9 +175,9 @@
      inkscape:window-height="986"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.2955466"
-     inkscape:cx="59.713786"
-     inkscape:cy="89.74343"
+     inkscape:zoom="2.5910931"
+     inkscape:cx="208.2313"
+     inkscape:cy="259.34082"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -199,7 +199,7 @@
      height="67.925003"
      width="1705.8438"
      id="rect831"
-     style="opacity:1;fill:#a38c8f;fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+     style="opacity:1;fill:#919291;fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
   <rect
      style="opacity:1;fill:url(#linearGradient829);fill-opacity:1;stroke:none;stroke-width:0.22434629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect14"
@@ -216,41 +216,19 @@
      x="35.443764"
      y="10.200512" />
   <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.09477723;"
-     x="57.632774"
-     y="50.644684"
-     id="text837"><tspan
-       sodipodi:role="line"
-       id="tspan835"
-       x="57.632774"
-       y="50.644684"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#666666;fill-opacity:1;stroke-width:1.09477723;">Desktops</tspan></text>
-  <text
-     id="text841"
-     y="50.644684"
-     x="178.79994"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.09477723;"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#666666;fill-opacity:1;stroke-width:1.09477723;"
-       y="50.644684"
-       x="178.79994"
-       id="tspan839"
-       sodipodi:role="line">Notebooks</tspan></text>
-  <text
      id="text845"
      y="195.49994"
      x="57.632774"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
        y="195.49994"
        x="57.632774"
        id="tspan843"
        sodipodi:role="line">Todos em Desktops</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
      x="57.632774"
      y="107.08065"
      id="text849"><tspan
@@ -258,7 +236,7 @@
        id="tspan847"
        x="57.632774"
        y="107.08065"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#888888;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;">PC (0)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;">PC (0)</tspan></text>
   <path
      style="fill:none;stroke:#acacac;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 35.50625,168.81093 H 277.875"
@@ -277,9 +255,9 @@
      id="text857"
      y="145.28651"
      x="57.632774"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362;"
        y="145.28651"
        x="57.632774"
        id="tspan855"
@@ -387,7 +365,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362">Mac (1)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
      x="178.02806"
      y="49.87281"
      id="text975"><tspan
@@ -395,27 +373,16 @@
        id="tspan973"
        x="178.02806"
        y="49.87281"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff;">Notebooks</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#4d4d4d;fill-opacity:1;">Notebooks</tspan></text>
   <text
      id="text979"
      y="50.065781"
      x="57.246838"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.09477723;"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.09477723"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1.09477723;fill:#4d4d4d;fill-opacity:1;"
        y="50.065781"
        x="57.246838"
        id="tspan977"
        sodipodi:role="line">Desktops</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.51643562px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362"
-     x="56.689331"
-     y="144.89087"
-     id="text983"><tspan
-       sodipodi:role="line"
-       id="tspan981"
-       x="56.689331"
-       y="144.89087"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.09477723;stroke-opacity:0.97744362">Mac (1)</tspan></text>
 </svg>

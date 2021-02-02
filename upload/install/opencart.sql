@@ -243,8 +243,7 @@ INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `t
 (26, 2, 2, 'Summer', '', 'catalog/demo/banners/banner-summer.png', 0),
 (27, 3, 2, 'Puma', '', 'catalog/demo/manufacturer/puma.png', 0),
 (28, 3, 2, 'Tommy Hilfiger', '', 'catalog/demo/manufacturer/tommy-hilfiger.png', 0),
-(29, 2, 2, 'Woman', '', 'catalog/demo/banners/banner-woman.png', 0),
-(30, 2, 2, 'Woman', '', 'catalog/demo/banners/banner-woman.png', 0);
+(29, 2, 2, 'Woman', '', 'catalog/demo/banners/banner-woman.png', 0);
 
 -----------------------------------------------------------
 

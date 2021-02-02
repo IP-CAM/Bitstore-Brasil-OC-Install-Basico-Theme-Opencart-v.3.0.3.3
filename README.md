@@ -29,6 +29,7 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 - [x] Traduzido o install para Projeto Bitstore-oc3.
 - [x] Traduzir área de admin para pt-br.
 - [x] Reconfigurado footer.
+- [x] Refeito Banner de Fabricante.
 
 ### Tarefas em andamento:
 

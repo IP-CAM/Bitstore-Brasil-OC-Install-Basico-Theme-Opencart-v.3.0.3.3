@@ -215,7 +215,7 @@ CREATE TABLE `oc_banner_image` (
 --
 
 INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `title`, `link`, `image`, `sort_order`) VALUES
-(1, 2, 1, 'iPhone 6', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/iPhone6.jpg', 0),
+(1, 2, 1, 'Man', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/banner-man.png', 0),
 (2, 1, 1, 'HP Banner', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/compaq_presario.jpg', 0),
 (3, 3, 1, 'Adidas', '', 'catalog/demo/manufacturer/adidas.png', 0),
 (4, 3, 1, 'Colcci', '', 'catalog/demo/manufacturer/colcci.png', 0),
@@ -226,10 +226,10 @@ INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `t
 (9, 3, 1, 'Lacote', '', 'catalog/demo/manufacturer/lacoste.png', 0),
 (10, 3, 1, 'Levis', '', 'catalog/demo/manufacturer/levis.png', 0),
 (11, 3, 1, 'Nike', '', 'catalog/demo/manufacturer/nike.png', 0),
-(12, 2, 1, 'MacBookAir', '', 'catalog/demo/banners/MacBookAir.jpg', 0),
+(12, 2, 1, 'Summer', '', 'catalog/demo/banners/banner-summer.png', 0),
 (13, 3, 1, 'Puma', '', 'catalog/demo/manufacturer/puma.png', 0),
 (14, 3, 1, 'Tommy Hilfiger', '', 'catalog/demo/manufacturer/tommy-hilfiger.png', 0),
-(15, 2, 2, 'iPhone 6', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/iPhone6.jpg', 0),
+(15, 2, 2, 'Man', 'index.php?route=product/product&amp;path=57&amp;product_id=49', 'catalog/demo/banners/banner-man.png', 0),
 (16, 1, 2, 'HP Banner', 'index.php?route=product/manufacturer/info&amp;manufacturer_id=7', 'catalog/demo/compaq_presario.jpg', 0),
 (17, 3, 2, 'Adidas', '', 'catalog/demo/manufacturer/adidas.png', 0),
 (18, 3, 2, 'Colcci', '', 'catalog/demo/manufacturer/colcci.png', 0),
@@ -240,9 +240,11 @@ INSERT INTO `oc_banner_image` (`banner_image_id`, `banner_id`, `language_id`, `t
 (23, 3, 2, 'Lacote', '', 'catalog/demo/manufacturer/lacoste.png', 0),
 (24, 3, 2, 'Levis', '', 'catalog/demo/manufacturer/levis.png', 0),
 (25, 3, 2, 'Nike', '', 'catalog/demo/manufacturer/nike.png', 0),
-(26, 2, 2, 'MacBookAir', '', 'catalog/demo/banners/MacBookAir.jpg', 0),
+(26, 2, 2, 'Summer', '', 'catalog/demo/banners/banner-summer.png', 0),
 (27, 3, 2, 'Puma', '', 'catalog/demo/manufacturer/puma.png', 0),
-(28, 3, 2, 'Tommy Hilfiger', '', 'catalog/demo/manufacturer/tommy-hilfiger.png', 0);
+(28, 3, 2, 'Tommy Hilfiger', '', 'catalog/demo/manufacturer/tommy-hilfiger.png', 0),
+(29, 2, 2, 'Woman', '', 'catalog/demo/banners/banner-woman.png', 0),
+(30, 2, 2, 'Woman', '', 'catalog/demo/banners/banner-woman.png', 0);
 
 -----------------------------------------------------------
 

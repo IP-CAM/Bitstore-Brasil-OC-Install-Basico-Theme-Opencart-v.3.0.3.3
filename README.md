@@ -30,6 +30,7 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 - [x] Traduzir área de admin para pt-br.
 - [x] Reconfigurado footer.
 - [x] Refeito Banner de Fabricante.
+- [x] Refeito Banner de Principal.
 
 ### Tarefas em andamento:
 

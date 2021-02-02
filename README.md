@@ -31,6 +31,7 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 - [x] Reconfigurado footer.
 - [x] Refeito Banner de Fabricante.
 - [x] Refeito Banner de Principal.
+- [x] Novas cores para o Menu principal.
 
 ### Tarefas em andamento:
 

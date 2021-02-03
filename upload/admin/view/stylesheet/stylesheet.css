@@ -177,11 +177,11 @@ a:hover, a:focus {
 	padding-bottom: 40px;
         background: url('../image/bk-login.svg');
 }
-
+/*
 #footer{
     margin-top: 2%;
 }
-
+*/
 #column-left + #content, #column-left + #content + #footer {
 	position: relative;
 	left: 0px;

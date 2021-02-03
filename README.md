@@ -32,6 +32,7 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 - [x] Refeito Banner de Fabricante.
 - [x] Refeito Banner de Principal.
 - [x] Novas cores para o Menu principal.
+- [x] Colocado whatsapp no footer.
 
 ### Tarefas em andamento:
 

@@ -42,3 +42,4 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 
 - [ ] Documentar a estrutura para construir um Layout.
 - [ ] Criar um Template novo padrão.
+- [ ] Arrumar update automático das lojas.

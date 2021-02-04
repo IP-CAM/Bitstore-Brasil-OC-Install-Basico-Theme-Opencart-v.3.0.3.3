@@ -96,8 +96,8 @@ div.required .control-label:before {
 #top #form-language .language-select:hover {
 	text-shadow: none;
 	color: #ffffff;
-	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-color: #C1C1C1;
+	background-image: linear-gradient(to bottom, #E8E8E8, #DBDBDB);
 	background-repeat: repeat-x;
 }
 #top .btn-link, #top-links li, #top-links a {

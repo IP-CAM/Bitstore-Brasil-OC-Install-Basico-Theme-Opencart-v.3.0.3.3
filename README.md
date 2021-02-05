@@ -36,10 +36,11 @@ Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura
 
 ### Tarefas em andamento:
 
-- [ ] Traduzir área do usuário para pt-br.
+- [ ] Arrumar update automático das lojas.
 
 ### Próximas tarefas:
 
+- [ ] Traduzir área do usuário para pt-br.
 - [ ] Documentar a estrutura para construir um Layout.
 - [ ] Criar um Template novo padrão.
-- [ ] Arrumar update automático das lojas.
+

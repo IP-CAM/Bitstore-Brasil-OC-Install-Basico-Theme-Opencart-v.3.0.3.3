@@ -13,35 +13,34 @@ Projeto Bitstore-oc3
     <img src="https://img.shields.io/badge/opencart-3.0.3.3-blue.svg" alt="Compatibilidade">
 </p>
 
-### Projeto Bitstore-oc3
+### Project Bitstore-oc3
 
-Desenvolvido com as tecnologias web: PHP 7, CSS3 e HTML5.
+Developed with web technologies: PHP 7, CSS3 and HTML5.
 
-O **Projeto Bitstore-oc3** é um fork do OpenCartBrasil.
-Tem o objetivo de oferecer uma versão do OpenCart otimizada, atualizada, segura, com testes e que rode em PHP7.
+** Project Bitstore-oc3 ** is a fork of OpenCartBrasil.
+It aims to offer a version of OpenCart optimized, updated, safe, with tests and that runs in PHP7.
 
 
-## Roteiro
+## Script
 
-### Tarefas concluídas:
+### Completed tasks:
 
-- [x] Install do fork do OpenCart 3.0.3.3.
-- [x] Traduzido o install para Projeto Bitstore-oc3.
-- [x] Traduzir área de admin para pt-br.
-- [x] Reconfigurado footer.
-- [x] Refeito Banner de Fabricante.
-- [x] Refeito Banner de Principal.
-- [x] Novas cores para o Menu principal.
-- [x] Colocado whatsapp no footer.
-- [x] Colocado o arquivo CHANCELGO.md para documentação de versão.
+- [x] Install the OpenCart 3.0.3.3 fork.
+- [x] Translated the install for Project Bitstore-oc3.
+- [x] Translate admin area to en-us.
+- [x] Reconfigured footer.
+- [x] Redone Manufacturer Banner.
+- [x] remade Banner of Principal.
+- [x] New colors for the Main Menu.
+- [x] Put whatsapp on the footer.
+- [x] Placed the file CHANCELGO.md for version documentation.
 
-### Tarefas em andamento:
+### Tasks in progress:
 
-- [ ] Arrumar update automático das lojas.
+- [] Fix automatic update of stores.
 
-### Próximas tarefas:
+### Next tasks:
 
-- [ ] Traduzir área do usuário para pt-br.
-- [ ] Documentar a estrutura para construir um Layout.
-- [ ] Criar um Template novo padrão.
-
+- [] Translate user area to en.
+- [] Document the structure to build a Layout.
+- [] Create a new standard Template. 
